@@ -1,14 +1,14 @@
 //import react from 'react';
 import { Stylebody } from "./styles";
+import logo from '../../../../../../assets/logo2.jpg'
 
 const Conversation: React.FC = () => {
     
     return (
         <>
           <Stylebody>
-            <div>
-                conversation
-            </div>
+           <img src={logo} alt="" />
+           <p>Conversation</p>
           </Stylebody>
         </>
     );

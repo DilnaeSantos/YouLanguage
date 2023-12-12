@@ -1,14 +1,14 @@
 //import react from 'react';
 import { Stylebody } from "./styles";
+import logo from '../../../../../../assets/logo2.jpg'
 
 const Vocabulary: React.FC = () => {
     
     return (
         <>
           <Stylebody>
-            <div>
-                vocabulary
-            </div>
+            <img className="logo" src={logo} alt="logo" />
+            <p>Vocabulary</p>
           </Stylebody>
         </>
     );
