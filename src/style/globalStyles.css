@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.container {
+    background-color: #ff8040;
+    height: 100vh;
+}
+
+/* ===== Scrollbar CSS ===== */
+
+*::-webkit-scrollbar {
+	width: 12px;
+}
+
+*::-webkit-scrollbar-track {
+	background: #771216;
+}
+
+*::-webkit-scrollbar-thumb {
+	background-color: #fca650;
+	border-radius: 10px;
+	border: 3px solid #ffffff;
+}
