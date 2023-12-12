@@ -1,14 +1,14 @@
 //import react from 'react';
 import { Stylebody } from "./styles";
+import logo from '../../../../../../assets/logo2.jpg'
 
 const Exercises: React.FC = () => {
     
     return (
         <>
           <Stylebody>
-            <div>
-                exercises
-            </div>
+              <img className="logo" src={logo} alt="logo" />
+              <p>Exercises</p>
           </Stylebody>
         </>
     );
