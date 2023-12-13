@@ -8,6 +8,10 @@ export const Stylebody = styled.body`
         border-radius: 5px;
     }
 
+    h1 {
+        margin: 0% 0% 3% 24%;
+    }
+
     video {
         width: 80%;
         margin: 10%;

@@ -9,7 +9,7 @@ export const Stylebody = styled.body`
         display: flex;
         flex-direction: column;
         align-items: center;
-        background-color: #ffab57;
+        background-color: #F6961D;
         padding: 0% 0% 1% 0%;
     }
 
@@ -69,8 +69,16 @@ export const Stylebody = styled.body`
         margin-bottom: 4%;
     }
 
+    h1 {
+        margin-bottom: 0%;
+    }
+
     h2, h4 {
         color: #000;
+    }
+
+    h6 {
+        margin: 0% 30% 5% 0%;
     }
 
 `

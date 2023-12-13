@@ -16,7 +16,8 @@ const Vocabulary: React.FC = () => {
                    <img className="imgQuarto" src={imgQuarto} alt="Um quarto completo visto da porta de entrada do quarto" />
                 </section>
                 <section className="conteudos">
-                    <h2 className="titulosKEY">KEYWORDS</h2>
+                    <h1 className="titulosKEY">Keywords</h1>
+                    <h6>(listen & repeat)</h6>
                     <h3 className="titulosBed">What's Your Name?</h3>
                     <div className="uls">
                       <div className="ul1">

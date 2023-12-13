@@ -11,7 +11,8 @@ const Exercises: React.FC = () => {
               <img className="logo" src={logo} alt="logo" />
             </div>
             <div className="containerExercises">
-              <h1>EXERCISES</h1>
+              <h1>Exercises</h1>
+              <h6>(drill)</h6>
               <div>
                 <p><strong>1. Complete the sentences with the correct form of "be" (am, is, are):</strong></p>
                 <ul>

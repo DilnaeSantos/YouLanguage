@@ -13,6 +13,7 @@ const ReadingWriting: React.FC = () => {
                     <img className="logo" src={logo} alt="logo" />
                   </div>
                 <h1>Reading & Writing</h1>
+                <h6>(listen)</h6>
                 <audio src={Audio1} controls></audio>
                 <div>
                   <p>"Hello! Good morning, and thanks for reaching out. How are you doing today?" John greets.</p>

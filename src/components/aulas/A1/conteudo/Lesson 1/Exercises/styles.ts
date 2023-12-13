@@ -17,11 +17,15 @@ export const Stylebody = styled.body`
     }
 
     h1 {
-        margin: 0% 0% 3% 30%;
+        margin: 0% 0% 0% 10%;
     }
 
     h5 {
         margin: 0% 0% 3% 0%;
+    }
+
+    h6 {
+        margin: 0% 0% 5% 10%;
     }
 
     ul {

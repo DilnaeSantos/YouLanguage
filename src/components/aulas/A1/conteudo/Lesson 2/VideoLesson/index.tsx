@@ -12,6 +12,8 @@ const VideoLesson: React.FC = () => {
                 <div>
                   <img className="logo" src={logo} alt="logo" />
                 </div>
+                <h1>Video Lesson</h1>
+                <h6>(watch & answer)</h6>
                 <video src={video1} controls></video>
                 <div className="questions">
                   <h2>Answer These Questions:</h2>
