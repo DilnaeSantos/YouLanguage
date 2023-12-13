@@ -21,6 +21,10 @@ export const Stylebody = styled.body`
         margin-top: 2%;
     }
 
+    h6 {
+        margin: 0% 42% 5% 0%;
+    }
+
     .study, .ul {
         margin: 3% 0%;
     }

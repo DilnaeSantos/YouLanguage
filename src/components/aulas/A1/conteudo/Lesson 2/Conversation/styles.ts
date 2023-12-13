@@ -22,7 +22,6 @@ export const Stylebody = styled.body`
 
     h1 {
         margin-left: 8%;
-        color: #590000;
     }
 
     ul {

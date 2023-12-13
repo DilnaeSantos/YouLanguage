@@ -21,8 +21,8 @@ export const Stylebody = styled.body`
         color: #000;
     }
 
-    h1 {
-        color: #000;
+    h6 {
+        margin: 0% 57% 0% 0%;
     }
 
     strong {

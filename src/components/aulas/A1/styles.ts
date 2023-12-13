@@ -1,7 +1,7 @@
 import styled from 'styled-components'
 
 export const Stylebody = styled.body`
-    background-color: #ffab57;
+    background-color: #F6961D;
     max-height: 0px;
     min-height: 610px;
     overflow-y: scroll;    

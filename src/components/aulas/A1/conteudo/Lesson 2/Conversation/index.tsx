@@ -12,6 +12,7 @@ const Conversation: React.FC = () => {
                   <img className="logo" src={logo} alt="logo" />
                 </div>
                 <h1>Good Morning (greetings)</h1>
+                <h6>(role play)</h6>
                 <ul>
                   <li>Good morning. My name is John.</li>
                   <li>This is Peter. He is a student.</li>

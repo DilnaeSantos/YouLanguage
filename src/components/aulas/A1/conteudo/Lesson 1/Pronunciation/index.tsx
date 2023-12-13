@@ -11,8 +11,8 @@ const Pronunciation: React.FC = () => {
                 <div>
                   <img className="logo" src={logo} alt="logo" />
                 </div>
-                <h1>PRONUNCIATION</h1>
-                <p>(listen and repeat)</p>
+                <h1>Pronunciation</h1>
+                <h6>(repeat)</h6>
                 <h4>Long Volwels:</h4>
                 <ul>
                     <li>A /ei:/ (as in cake): "cake"</li>
