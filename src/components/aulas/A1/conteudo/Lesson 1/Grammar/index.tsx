@@ -12,7 +12,7 @@ const Grammar: React.FC = () => {
             </div>
             <div className="containerGrammar"> 
                 <h1>Grammar</h1>
-                <h6>(study)</h6>
+                <h6>(studyl)</h6>
                 <p>
                   <strong>Subject pronouns:</strong> are used to replace or stand in for the subject of a
                   sentence. Here are the subject pronouns:
