@@ -4,7 +4,7 @@ import img1 from '../../../assets/imgs/A1FIG1.jpg'
 import img2 from '../../../assets/imgs/img2 aula2.png'
 
 // conteudo da lesson 1 modulo A1, Aula Impar
-import VocabularyImpar1 from './conteudo/Lesson 1/Vocabulary'
+import VocabularyImpar1 from './conteudo/Lesson 1/Vocabulary copy'
 import PronunciationImpar1 from './conteudo/Lesson 1/Pronunciation'
 import GrammarImpar1 from './conteudo/Lesson 1/Grammar'
 import ExercisesImpar1 from './conteudo/Lesson 1/Exercises'
